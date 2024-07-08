@@ -8,9 +8,11 @@ Photogrammetric Reality Capture Method, ‘Reality Capture’ 을 활용하여,
 
 Link :
 
-[24-1 딥러닝 기말 프로젝트 Team1](https://www.notion.so/24-1-Team1-675184762b8148079afe75fe4f64b623?pvs=21)
+[24-1 딥러닝 기말 프로젝트 Team1 link](https://www.notion.so/24-1-Team1-675184762b8148079afe75fe4f64b623?pvs=21)
 
 Slide : 
+
+[24-1 딥러닝 기말 프로젝트 Team1 slide](https://drive.google.com/file/d/1WEBWY7Wfyl6kmHr4x7sCz4m2rTl4sbMZ/view?usp=drive_link)
 
 ## Contributors
 
