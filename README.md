@@ -52,13 +52,13 @@ GoogleNet 보다 성능이 좋다고 알려진 ResNet18 을 활용함
     
     -> GoogleNet 대신 ResNet18을 사용햇을떄, error 가 비교적 안정적이고 지속적으로 낮은값 유지하지만, 여전히 불안정한 학습
     
-1. lerarning rate 변경
+2. lerarning rate 변경
 - stepLR 도입 ( 현재 epoch의 1/3 일 때, learning rate 0.5 배씩 줄임 )
 - stepLR 도입 ( 현재 epoch의 1/3 일 때, learning rate 0.5 배씩 줄임 )
     
     -> StepLR 을 도입하여 안정적인 학습을 하려고 했지만, 오히려 불안정한 학습을 보여 learning rate 를 일정하게 유지하기로함
     
-1. batch size 변경
+3. batch size 변경
     
     → 안정적인 학습을 위해 batchsize 를 64->128 로 키웠지만 성능이 비슷하여 train 속도를 고려하여 128로 조정하기로함
     
