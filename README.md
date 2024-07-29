@@ -47,7 +47,7 @@ Paper Review :
 
 1. PoseNet backbone 바꾸기
 GoogleNet 보다 성능이 좋다고 알려진 ResNet18 을 활용함
-- GogglNet 의 inceptionblock 을 사용하여 regression head 를 구성하는 posenet 구조에서, 해당 부분을 제거하고 ResNet18의 residual block으로 대체하여 모델을 구성함
+- GoogleNet 의 inceptionblock 을 사용하여 regression head 를 구성하는 posenet 구조에서, 해당 부분을 제거하고 ResNet18의 residual block으로 대체하여 모델을 구성함
 - CSAILVision의 Places365 로 pretrain 된 ResNet50의 가중치를 사용하여 ResNet 18 가중치 초기화
     
     -> GoogleNet 대신 ResNet18을 사용햇을떄, error 가 비교적 안정적이고 지속적으로 낮은값 유지하지만, 여전히 불안정한 학습
